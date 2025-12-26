@@ -68,8 +68,12 @@ J’accompagne les entreprises, startups et indépendants dans la transformation
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esai-Lazing&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esai-Lazing&layout=compact&theme=default)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esai-Lazing&show_icons=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esai-Lazing&layout=compact)
+
 
 ---
 
